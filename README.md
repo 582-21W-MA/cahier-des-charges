@@ -1,7 +1,7 @@
 # Cahier des charges
 
-Énoncé : cours 2
-Remise : cours 3
+Énoncé : cours 2 \
+Remise : cours 3 \
 Pondération : 5%
 
 ## Description
